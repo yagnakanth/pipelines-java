@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/yagna-org/challenge/_apis/build/status%2Fyagnakanth.pipelines-java?branchName=feature)](https://dev.azure.com/yagna-org/challenge/_build/latest?definitionId=1&branchName=feature)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
